@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VyAdypqjWXUJ8iyaaNQbSRTFtDOiLbfpOsBYDt0bmi5e68M+FpK3a7p808tBNR1z/R5Osb2HCQHIBmgjbigPtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jimmy\\source\\repos\\LookAround\\LookAround\\LookAround.iOS\\LookAround.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
